@@ -44,6 +44,4 @@ Puis ouvrir `http://localhost:PORT/swagger-ui.html` pour tester l'API interactiv
 
 > Voir le `README.md` de chaque sous-dossier pour les détails complets (endpoints, exemples curl, particularités).
 
-## Note sur l'environnement de génération
 
-Ce code a été rédigé dans un environnement sans accès à Maven Central ; il n'a donc pas pu être compilé/exécuté ici. Le code suit strictement les conventions Spring Boot standards (Spring Initializr) et devrait compiler sans modification sur un poste disposant de JDK 21, Maven et d'un accès internet normal. Si une erreur de compilation apparaît malgré tout, elle sera mineure (import, typo) — n'hésitez pas à revenir vers moi pour la corriger.
