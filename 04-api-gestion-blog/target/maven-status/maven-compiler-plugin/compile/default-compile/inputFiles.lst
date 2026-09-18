@@ -1,0 +1,15 @@
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\BlogApplication.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\controller\ArticleController.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\dto\ApiErrorResponse.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\dto\ArticleRequestDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\dto\ArticleResponseDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\dto\CommentRequestDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\dto\CommentResponseDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\entity\Article.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\entity\Comment.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\exception\GlobalExceptionHandler.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\exception\ResourceNotFoundException.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\repository\ArticleRepository.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\repository\CommentRepository.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\service\ArticleService.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\04-api-gestion-blog\src\main\java\com\pkfrc\blog\service\ArticleServiceImpl.java

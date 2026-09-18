@@ -1,0 +1,15 @@
+com\pkfrc\taches\service\TaskService.class
+com\pkfrc\taches\dto\TaskRequestDTO.class
+com\pkfrc\taches\exception\ResourceNotFoundException.class
+com\pkfrc\taches\repository\TaskRepository.class
+com\pkfrc\taches\dto\ApiErrorResponse$ApiErrorResponseBuilder.class
+com\pkfrc\taches\dto\TaskResponseDTO$TaskResponseDTOBuilder.class
+com\pkfrc\taches\exception\GlobalExceptionHandler.class
+com\pkfrc\taches\service\TaskServiceImpl.class
+com\pkfrc\taches\dto\ApiErrorResponse.class
+com\pkfrc\taches\entity\Task.class
+com\pkfrc\taches\entity\TaskStatus.class
+com\pkfrc\taches\controller\TaskController.class
+com\pkfrc\taches\TachesApplication.class
+com\pkfrc\taches\entity\Task$TaskBuilder.class
+com\pkfrc\taches\dto\TaskResponseDTO.class

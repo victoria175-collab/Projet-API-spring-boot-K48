@@ -1,0 +1,11 @@
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\controller\ProductController.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\dto\ApiErrorResponse.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\dto\ProductRequestDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\dto\ProductResponseDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\entity\Product.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\exception\GlobalExceptionHandler.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\exception\ResourceNotFoundException.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\InventaireApplication.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\repository\ProductRepository.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\service\ProductService.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\05-api-gestion-inventaire\src\main\java\com\pkfrc\inventaire\service\ProductServiceImpl.java

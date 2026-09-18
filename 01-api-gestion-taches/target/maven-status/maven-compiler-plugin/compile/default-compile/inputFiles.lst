@@ -1,0 +1,12 @@
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\controller\TaskController.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\dto\ApiErrorResponse.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\dto\TaskRequestDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\dto\TaskResponseDTO.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\entity\Task.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\entity\TaskStatus.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\exception\GlobalExceptionHandler.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\exception\ResourceNotFoundException.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\repository\TaskRepository.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\service\TaskService.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\service\TaskServiceImpl.java
+C:\Users\DELL\Downloads\PROJET_API_Spring_Boot\PROJET_API\01-api-gestion-taches\src\main\java\com\pkfrc\taches\TachesApplication.java
